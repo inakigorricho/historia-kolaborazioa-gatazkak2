@@ -3,3 +3,5 @@ dos
 tres
 
 garapena: oso gaizki atera zen.
+
+final-a: finala
